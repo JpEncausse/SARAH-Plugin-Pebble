@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "pebble":     {
+      "description": "Comunique avec la montre Pebble",
+      "version"    : "0.5"
+    }
+  }
+}
